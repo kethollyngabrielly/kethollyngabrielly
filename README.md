@@ -3,4 +3,4 @@
 - Estou trabalhando em projetos **JavaScript** e **HTML**;
 - Para contato email: _0000108938158xsp@al.educacao.sp.gov.br_
 
-- !{}(https://media1.tenor.com/m/hecNJAb62voAAAAC/sad-cry.gif)
+- ![](https://media1.tenor.com/m/hecNJAb62voAAAAC/sad-cry.gif)
